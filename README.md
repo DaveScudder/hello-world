@@ -5,4 +5,7 @@ I'm 52 years old, married with three children. A daughter and twin boys who are 
 I've worked at M&S for 34 years!
 I love going on holiday....this year we've been to Croatia (near Dubrovnik) and Madrid.
 
-Just padding this out with some more text to commit to the branch rather than the master
+Just padding this out with some more text to commit to the branch rather than the master<<<<<<< readme-edits
+
+NOW I'm in the branch version rather than the master version of this project!
+
